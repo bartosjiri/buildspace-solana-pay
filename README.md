@@ -1,15 +1,43 @@
-# buildspace Store on Solana Pay Project
+# Buildspace: Build your own store with Solana Pay
 
-### **Welcome 👋**
+A repository for the [Buildspace](https://buildspace.so)'s *"[Build your own store with Solana Pay](https://buildspace.so/p/build-solana-pay-store)"* project.
 
-To get started with this project, clone this repo and follow these commands:
+## Debriefing
 
-1. Run `npm install` at the root of your directory
-2. Run `npm run dev` to start the project
-3. Start coding!
+During the project, the following tasks have been accomplished:
+- Build and deploy a market place with Solana Pay options ([Website link](https://buildspace-solana-pay.vercel.app/))
 
-### What is the `.vscode` Folder?
-If you use VSCode to build your app, we included a list of suggested extensions that will help you build this project! Once you open this project in VSCode, you will see a popup asking if you want to download the recommended extensions :).
+<hr />
 
-### **Questions?**
-Have some questions make sure you head over to your [buildspace Dashboard](https://app.buildspace.so/) and link your Discord account so you can get access to helpful channels teaching assistants, and your instructor!
+## Requirements
+
+- [Node.js](https://nodejs.org/en/)
+
+## Development
+
+1. Install project dependencies:
+	```
+    npm install
+    ```
+2. Copy the `.env.example` file as `.env` and provide values for all required fields.
+3. Start the application in development mode:
+	```
+    npm run dev
+    ```
+
+## Deployment
+
+1. If not done during development, install project dependencies:
+	```
+    npm install
+    ```
+2. Copy the `.env.example` file as `.env` and provide values for all required fields.
+3. Generate the production build of the application:
+	```
+    npm run build
+    ```
+4. Using the web server of your preference, publish the generated NextJS files.
+
+## Resources
+- [Buildspace: Build your own store with Solana Pay](https://buildspace.so/p/build-solana-pay-store)
+- [Solana Pay](https://solanapay.com/)
