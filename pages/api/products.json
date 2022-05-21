@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Tier 1 Cookie Fortune",
+    "price": "5",
+    "description": "The base tier of Solana-blessed fortune",
+    "image_url": "https://cdn.shopify.com/s/files/1/0836/4641/products/FORTUNE-COOKIE.jpg?v=1527554178",
+    "filename": "fortune-t1.png",
+    "hash": "QmXqtcY8xxpABqTF3eVTNz9vr6xc3QDkp7CqS14S3ePm9M"
+  },
+  {
+    "id": 2,
+    "name": "Tier 2 Cookie Fortune",
+    "price": "25",
+    "image_url": "https://m.media-amazon.com/images/I/61iGoRhiUsL._AC_SS450_.jpg",
+    "description": "The premium Solana-blessed fortune",
+    "filename": "fortune-t2.png",
+    "hash": "QmUQVy6vXEeYwQfrhdMNsjSWekTDhT3VqZidzN7wb2kzZx"
+  }
+]
